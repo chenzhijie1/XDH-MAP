@@ -1,0 +1,102 @@
+{
+  "/overlay/": [
+    {
+      "title": "覆盖物组件",
+      "collapsable": false,
+      "children": [
+        "text",
+        "rectangle",
+        "polygon",
+        "circle",
+        "line",
+        "image",
+        "html",
+        "icon",
+        "tooltip",
+        "popup",
+        "heat",
+        "echarts",
+        "mask",
+        "geo-layer",
+        "group"
+      ]
+    }
+  ],
+  "/api": null,
+  "/control/": [
+    {
+      "title": "控件组件",
+      "collapsable": false,
+      "children": [
+        "placement",
+        "pointer",
+        "overview",
+        "zoom",
+        "scale",
+        "type"
+      ]
+    }
+  ],
+  "/tools/": [
+    {
+      "title": "小工具",
+      "collapsable": false,
+      "children": [
+        "panel",
+        "dialog",
+        "drawdown"
+      ]
+    }
+  ],
+  "/animate/": [
+    {
+      "title": "动效组件",
+      "collapsable": false,
+      "children": [
+        "track",
+        "draw",
+        "scatter",
+        "flight",
+        "measure"
+      ]
+    }
+  ],
+  "/performance/": [
+    {
+      "title": "性能测试",
+      "collapsable": false,
+      "children": [
+        "text"
+      ]
+    }
+  ],
+  "/geo-edit/": [
+    {
+      "title": "geo编辑器",
+      "collapsable": false,
+      "children": [
+        "geo-edit"
+      ]
+    }
+  ],
+  "/other/": [
+    {
+      "title": "其他",
+      "collapsable": false,
+      "children": [
+        "drag-object",
+        "area-select"
+      ]
+    }
+  ],
+  "/": [
+    {
+      "title": "使用指南",
+      "collapsable": false,
+      "children": [
+        "",
+        "map"
+      ]
+    }
+  ]
+}
